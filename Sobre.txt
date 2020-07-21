@@ -1,0 +1,32 @@
+Projeto feito em cadeira de curso para Disciplina de linguagem Web
+
+
+Esbolço do projeto
+
+O projeto trata-se de uma agência de viagens que se tem localidade em Lisboa portugal! estando em uma boa parte em Português de portugal,
+o cliente poderá na mesma fazer cadastros consultas entre passagens , reservas e o seu Check-in para sua viagem marcada, dentra outras modalidades
+com o nome de Aero-Portugal, visa fazer turismo principalmente em parte de antigas terras portuguesas como Brasil e alguns lugares da Africa! 
+
+
+Configurações
+
+ Projeto totalmente feito em linguagem Web (php)
+ utilizando JavaScript para validação de alguns dados!
+ Utilizando padrão UFT8 para codificação em caracteres Latinos
+ Utilizando CSS3 para dar efeito Às paginas Web 	
+ Incluindo bibliotecas Bootstrapp 3  
+ JQuery
+ Usando a linguagem PHP com pdo
+ Banco de dados SQL para armazenar os arquivos digitados por usuários
+Foi utilizado ferramentas para desenvolvimento : Visual Studio Code 
+
+
+Das Conecções
+ Às conecções feitas no banco de dados utilizando biblioteca PDO geram os seguintes bancos e conecções
+B.D = MENSAGEIRO: utilizado para o usuário entrar em contato com os funcionários da empresa para duvidas
+B.D = CADASTROS : utilizado para o usuário cadastrar seu Email e seus dados pessoas para eventuais pesquisas e reservas de passagens no sistema
+
+
+Projeto feito por : Sávio Gomes da silva! 
+
+Desenvolvedor de software
